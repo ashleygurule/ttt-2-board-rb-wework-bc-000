@@ -6,6 +6,8 @@ row [0]
 
 row [1]
 
-board [5] = "x"
+row [2]
+
+row [1]] = "x"
 
 puts board
