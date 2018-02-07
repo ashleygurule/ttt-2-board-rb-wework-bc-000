@@ -1,6 +1,6 @@
 # Define the variable board below.
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" "," "," "," "," "," "," "," "," "]
 
 board [5] = "x"
 
