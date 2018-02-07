@@ -1,12 +1,12 @@
 # Define the variable board below.
 
-board = [" "," "," "," "," "," "," "," "," "]
+board = ["X"," "," "," "," "," "," "," "," "]
 
 
 puts board
 
 def display_board
-  puts "   |   |   "
+  puts " #{board[0]}  |  #{board[1]}   | #{board[2]}  "
   puts "_________"
   puts "   |   |   "
   puts "_________"
