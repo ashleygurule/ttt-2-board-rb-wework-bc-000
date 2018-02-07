@@ -14,3 +14,5 @@ def display_board
 end
 
 display_board
+
+x = 1
